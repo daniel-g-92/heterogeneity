@@ -1,6 +1,6 @@
 # heterogeneity
 
-These are the files that generate the key pieces of work making up my latest paper.
+These are the files that generate the key pieces of work making up my latest paper (PharmacoEconomics 2021)
 
 Starting with the main simulation R file, this will generate heterogenous time-to-event follow-up replicating a phase III trial.
 It then fits models to this, assesses their plausibiltiy and stores estimates of life-years (mean survival).
